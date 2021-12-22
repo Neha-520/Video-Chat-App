@@ -4,9 +4,12 @@
 }
 
 body {
-    background : linear - gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(https : // i.pinimg.com/originals/8f/14/57/8f14578ef69a4c53352955d1e072eda6.png);
-        background - repeat : no - repeat;
-    background - attachment : fixed;
-    background - size : cover;
+    /* background: linear-gradient(147deg,#000000 0%,#04619f 74%); */
+    /* background: linear-gradient(to right top, #393f3f, #000000); */
+
+    background-color: rgb(217, 255, 219);
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: cover;
 }
