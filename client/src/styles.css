@@ -4,10 +4,12 @@
 }
 
 body {
-    /* background: linear-gradient(147deg,#000000 0%,#04619f 74%); */
+    background: linear-gradient(147deg,#000000 0%,#04619f 74%);
     /* background: linear-gradient(to right top, #393f3f, #000000); */
+    /* background-color: rgb(233, 255, 234); */
+    /* background: linear-gradient(to right top, #1cd8d2, #93edc7); */
 
-    background-color: rgb(217, 255, 219);
+
     background-repeat: no-repeat;
 
     background-attachment: fixed;
